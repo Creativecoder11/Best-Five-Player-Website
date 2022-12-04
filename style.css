@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-family: 'Berkshire Swash', cursive;
+    color: #FF5E19;
+}
+.size{
+    font-size: 56px;
+}
+.header{
+    background-color: black;
+}
+.line-maker{
+    position: absolute;
+    top: 190px;
+    right:18%;
+}
+.player-img{
+    margin-top: 20px;
+}
+.player-sec{
+    background-color: #151515;
+}
+.bg-color{
+    background-color: black;
+}
+.list-container li{
+    line-height: 40px;
+    font-size: 18px;
+}
+.rectangle{
+    margin-top: 20px;
+}
+.ball{
+    margin-top: 35px;
+}
